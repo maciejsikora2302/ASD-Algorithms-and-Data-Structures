@@ -1,0 +1,3 @@
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/CMakeFiles/kod_z_zajec_cpp.dir
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kod_z_zajec_cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kod_z_zajec_cpp">
+				<Option output="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/kod_z_zajec_cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 kod_z_zajec_cpp"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kod_z_zajec_cpp/fast">
+				<Option output="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/kod_z_zajec_cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 kod_z_zajec_cpp/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/main.cpp">
+			<Option target="kod_z_zajec_cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/admin/Documents/Studia/Semestr II/ASD/zajecia 5/kod_z_zajec.cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

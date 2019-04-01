@@ -1,0 +1,32 @@
+struktura
+
+tab[]
+from[]
+to[]
+
+int top=0
+
+jak chce wstawić tab[index]=x
+to from[index]=top
+to[top]=index
+top++
+
+ZADANIE
+udowodnic ze magiczne piątki działają
+
+
+nawaisy ()((())()()())))
+licznik++ (
+licznik-- )
+jak <0 źle
+na koniec musi być == 0
+
+
+przsunięcie o k elementów w prawo
+biorę ostatnie k elementów tablicy i robię revers
+biore pozostałe elementy i robię revers
+biorę reszte elementów i robię revers
+gotowe
+
+
+otoczka - powtórzyć

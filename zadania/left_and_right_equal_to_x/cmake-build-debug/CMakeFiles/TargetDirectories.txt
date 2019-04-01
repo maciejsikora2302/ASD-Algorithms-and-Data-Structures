@@ -1,0 +1,3 @@
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zadania/left_and_right_equal_to_x/cmake-build-debug/CMakeFiles/left_and_right_equal_to_x.dir
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zadania/left_and_right_equal_to_x/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Documents/Studia/Semestr II/ASD/zadania/left_and_right_equal_to_x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
