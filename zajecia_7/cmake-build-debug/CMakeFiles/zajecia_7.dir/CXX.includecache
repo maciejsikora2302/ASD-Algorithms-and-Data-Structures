@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/hashTableImplementation.cpp
+iostream
+-
+
