@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/hashTableImplementation.cpp">
+		<Unit filename="C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/CodeFromLesson.cpp">
 			<Option target="zajecia_7"/>
 		</Unit>
 		<Unit filename="C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/CMakeLists.txt">

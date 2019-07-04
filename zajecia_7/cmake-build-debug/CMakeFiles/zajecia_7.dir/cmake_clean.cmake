@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj"
+  "CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj"
   "zajecia_7.pdb"
   "zajecia_7.exe"
   "zajecia_7.exe.manifest"

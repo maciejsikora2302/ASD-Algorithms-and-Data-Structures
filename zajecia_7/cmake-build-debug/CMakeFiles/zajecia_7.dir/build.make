@@ -56,27 +56,27 @@ include CMakeFiles/zajecia_7.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/zajecia_7.dir/flags.make
 
-CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj: CMakeFiles/zajecia_7.dir/flags.make
-CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj: ../hashTableImplementation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\zajecia_7.dir\hashTableImplementation.cpp.obj -c "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\hashTableImplementation.cpp"
+CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj: CMakeFiles/zajecia_7.dir/flags.make
+CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj: ../CodeFromLesson.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\zajecia_7.dir\CodeFromLesson.cpp.obj -c "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\CodeFromLesson.cpp"
 
-CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\hashTableImplementation.cpp" > CMakeFiles\zajecia_7.dir\hashTableImplementation.cpp.i
+CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\CodeFromLesson.cpp" > CMakeFiles\zajecia_7.dir\CodeFromLesson.cpp.i
 
-CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\hashTableImplementation.cpp" -o CMakeFiles\zajecia_7.dir\hashTableImplementation.cpp.s
+CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\CodeFromLesson.cpp" -o CMakeFiles\zajecia_7.dir\CodeFromLesson.cpp.s
 
 # Object files for target zajecia_7
 zajecia_7_OBJECTS = \
-"CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj"
+"CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj"
 
 # External object files for target zajecia_7
 zajecia_7_EXTERNAL_OBJECTS =
 
-zajecia_7.exe: CMakeFiles/zajecia_7.dir/hashTableImplementation.cpp.obj
+zajecia_7.exe: CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj
 zajecia_7.exe: CMakeFiles/zajecia_7.dir/build.make
 zajecia_7.exe: CMakeFiles/zajecia_7.dir/linklibs.rsp
 zajecia_7.exe: CMakeFiles/zajecia_7.dir/objects1.rsp

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/CodeFromLesson.cpp" "C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_7/cmake-build-debug/CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj"
+  "C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_8/main.cpp" "C:/Users/admin/Documents/Studia/Semestr II/Git/ASD/ASD-Algorithms-and-Data-Structures/zajecia_8/cmake-build-debug/CMakeFiles/zajecia_8.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

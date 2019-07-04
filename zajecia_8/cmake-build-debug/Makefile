@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7"
+CMAKE_SOURCE_DIR = "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_8"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_8\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug\CMakeFiles" "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_8\cmake-build-debug\CMakeFiles" "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_8\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_7\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\admin\Documents\Studia\Semestr II\Git\ASD\ASD-Algorithms-and-Data-Structures\zajecia_8\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -110,44 +110,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named zajecia_7
+# Target rules for targets named zajecia_8
 
 # Build rule for target.
-zajecia_7: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 zajecia_7
-.PHONY : zajecia_7
+zajecia_8: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 zajecia_8
+.PHONY : zajecia_8
 
 # fast build rule for target.
-zajecia_7/fast:
-	$(MAKE) -f CMakeFiles\zajecia_7.dir\build.make CMakeFiles/zajecia_7.dir/build
-.PHONY : zajecia_7/fast
+zajecia_8/fast:
+	$(MAKE) -f CMakeFiles\zajecia_8.dir\build.make CMakeFiles/zajecia_8.dir/build
+.PHONY : zajecia_8/fast
 
-CodeFromLesson.obj: CodeFromLesson.cpp.obj
+main.obj: main.cpp.obj
 
-.PHONY : CodeFromLesson.obj
+.PHONY : main.obj
 
 # target to build an object file
-CodeFromLesson.cpp.obj:
-	$(MAKE) -f CMakeFiles\zajecia_7.dir\build.make CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.obj
-.PHONY : CodeFromLesson.cpp.obj
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles\zajecia_8.dir\build.make CMakeFiles/zajecia_8.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-CodeFromLesson.i: CodeFromLesson.cpp.i
+main.i: main.cpp.i
 
-.PHONY : CodeFromLesson.i
+.PHONY : main.i
 
 # target to preprocess a source file
-CodeFromLesson.cpp.i:
-	$(MAKE) -f CMakeFiles\zajecia_7.dir\build.make CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.i
-.PHONY : CodeFromLesson.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles\zajecia_8.dir\build.make CMakeFiles/zajecia_8.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-CodeFromLesson.s: CodeFromLesson.cpp.s
+main.s: main.cpp.s
 
-.PHONY : CodeFromLesson.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-CodeFromLesson.cpp.s:
-	$(MAKE) -f CMakeFiles\zajecia_7.dir\build.make CMakeFiles/zajecia_7.dir/CodeFromLesson.cpp.s
-.PHONY : CodeFromLesson.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles\zajecia_8.dir\build.make CMakeFiles/zajecia_8.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -155,12 +155,12 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... zajecia_7
+	@echo ... zajecia_8
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... CodeFromLesson.obj
-	@echo ... CodeFromLesson.i
-	@echo ... CodeFromLesson.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 
